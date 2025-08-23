@@ -1,13 +1,9 @@
-import UserCard from './components/UserCard';
+import ColorChanger from './components/ColorChanger';
 
-function App() {
+export default function App() {
   return (
-    <>
-      <div>
-        <UserCard />
-      </div>
-    </>
+    <div>
+      <ColorChanger />
+    </div>
   );
 }
-
-export default App;
