@@ -5,7 +5,7 @@ import UserList from './UserList';
 const UserInfo = [
   {
     id: 1,
-    name: 'Jomer',
+    name: 'Jomeru',
     email: 'Jomer@gmail.com',
   },
   {
